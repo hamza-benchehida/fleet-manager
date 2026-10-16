@@ -220,7 +220,7 @@ fleet-manager/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/boutainadts1/fleet-manager.git
+git clone https://github.com/hamza-benchehida/fleet-manager.git
 cd fleet-manager
 ```
 
@@ -297,7 +297,7 @@ The application is deployed to production and actively used by real end users at
 
 ## Author
 
-**Doulate-Serouri Boutaina**
+**Hamza Benchehida**
 
 Engineering student — [ESI](https://www.esi.dz/) (Ecole Nationale Superieure d'Informatique)
 2nd year Higher Cycle (2CS), Software & Information Systems track
